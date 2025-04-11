@@ -123,7 +123,7 @@ This section concerns various forms of metadata, including administrative, descr
 * The Archive may produce full descriptive metadata using the DDI XML standard for uniquely held items. This metadata may be re-usable when written permission is obtained and provided there is a link to the original metadata and/or this repository is mentioned.
 * Depositors of data to be uniquely held by the Archive should allow the reuse of metadata.
 
-###Metadata Types And Sources
+### Metadata Types And Sources
 
 Data deposited by researchers should be accompanied by detailed documentation that describes the data, and the processes used to create it. Examples of documentation include but are not limited to codebooks for data files, code for software programs, format specifications, technical reports describing sampling, weighting and other protocols or methods.  Data files not accompanied by documentation are not accepted.  The following types of metadata will be created from accompanied documentation in the following forms:
 
@@ -208,7 +208,7 @@ The Data Archive
 * The Data Archive will take every care to curate and preserve datasets however the Archive assumes no liability for loss or damage to the data sets or any other data while it is stored in the … [Archive] or a repository to which the dataset is subsequently migrated.
 * Depositors retain the right to deposit items elsewhere in current or future versions of formats.
 
-The Depositor
+### The Depositor
 
 * Data collected by UCLA faculty is governed by policies of the University of California.  General University Policy Regarding Academic Appointees, APM 020, Section II.5 Publicity of Results states: "Notebooks and other original records of research are the property of the University ."
 * The Depositor will sign a Depositor Agreement.
