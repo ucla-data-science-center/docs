@@ -7,67 +7,138 @@ author:
 - "Tim Dennis"
 ---
 
-## UCLA Dataverse Collection Development Policy
+# UCLA Dataverse Collection Development Policy
 
-### Purpose  
-UCLA Dataverse, hosted by the UCLA Library Data Science Center (DSC), supports the sharing, preservation, and discovery of research data produced by UCLA scholars and collaborators. This policy outlines the types of materials accepted into UCLA Dataverse, the responsibilities of depositors, and the commitments made by the Library and DSC to ensure long-term stewardship and access.
+UCLA Dataverse is an open-access data repository operated by the UCLA Library Data Science Center (DSC). It supports UCLA researchers in sharing, preserving, and citing datasets that underpin their scholarship. This policy describes what may be deposited, who can deposit, and how the DSC supports long-term access and responsible stewardship.
 
-### Scope of the Collection  
-UCLA Dataverse accepts datasets and related materials from research in the social sciences, health sciences, humanities, STEM, and other disciplines. We welcome:
+---
 
-- Raw and processed data (quantitative, qualitative, geospatial, etc.)
-- Codebooks, instruments, documentation, and metadata
-- Derived or summarized data that supports reproducibility
-- Models, simulations, and related outputs
+## What is UCLA Dataverse?
 
-We do not accept paper records or completed survey forms.
+UCLA Dataverse is a platform for sharing and preserving research outputs — including data, code, documentation, and related materials — created at UCLA. Each dataset receives a stable DOI and is stored in an environment that supports discovery, reuse, and compliance with many publisher and funder requirements.
 
-### Who Can Deposit  
-We prioritize deposits from:
+---
+
+## Am I Ready to Deposit?
+
+You’re ready to deposit if:
+
+- You are a UCLA faculty member, student, or staff with a valid UCLA Logon ID  
+- Your data is final (not a draft), organized clearly, and fully documented  
+- You have de-identified or removed private, confidential, or restricted information  
+- You hold the rights to share the dataset or have obtained the appropriate permissions  
+- You are prepared to assign a license (default is [CC0](https://creativecommons.org/publicdomain/zero/1.0/legalcode))  
+
+---
+
+## Who Can Deposit?
 
 - UCLA faculty, students, and staff  
-- Collaborators working with UCLA researchers  
-- Other contributors whose data aligns with the goals of UCLA Dataverse and meets technical and ethical requirements  
+- Non-UCLA collaborators may deposit if working with UCLA-affiliated researchers  
+- Depositors must have a substantial intellectual contribution to the dataset  
+- Third-party or commercial datasets are not accepted unless permission is clearly documented
 
-All depositors must have the right to share the data and agree to UCLA Dataverse’s [Terms of Service](https://dataverse.ucla.edu).
+All submissions are reviewed by repository staff for completeness and eligibility.
 
-### What We Expect from Depositors  
-To support long-term access and reuse, depositors are expected to:
+---
 
-- Provide data in widely used, non-proprietary or convertible formats (e.g., CSV, TXT, SAV, DTA, PDF)  
-- Supply full documentation, including descriptions, instruments, or code when applicable  
-- Remove direct identifiers and ensure data is de-identified or legally cleared for sharing  
-- Choose an appropriate license (default is CC0) and ensure that reuse conditions are clear  
-- Follow applicable ethical, legal, and IRB requirements  
+## What Can Be Deposited?
 
-DSC reserves the right to decline deposits that are incomplete, non-reusable, or legally problematic.
+We accept research outputs from any discipline, including:
 
-### Access and Reuse  
-UCLA Dataverse promotes open access. Datasets are made publicly available unless depositors request access restrictions. Depositors may:
+- Tabular or statistical data  
+- Qualitative or textual data  
+- Scripts, software, and codebooks  
+- Visualizations, multimedia, and documentation
 
-- Place temporary embargoes  
-- Use custom licenses or agreements  
-- Restrict files to authenticated users
+Data must support scholarly research or reproducibility and must not include:
 
-All users must agree to the applicable terms before downloading data. Metadata is always publicly visible unless embargoed.
+- Personally identifiable information (PII)  
+- Confidential, licensed, or embargoed third-party content without proper clearance  
+- Drafts, notes, or preliminary working materials
 
-### Curation and Preservation  
-The DSC will:
+---
 
-- Review submissions for basic quality, documentation, and privacy compliance  
-- Assign persistent identifiers (DOIs)  
-- Provide long-term storage and backup  
-- Convert data formats when necessary to maintain access  
-- Enable metadata harvesting via OAI-PMH
+## Deposit Conditions
 
-We follow best practices in digital preservation but cannot guarantee perpetual readability of proprietary formats.
+Deposited materials should meet the following conditions:
 
-### Versioning  
-New versions of datasets can be published at any time. Previous versions remain accessible unless withdrawn by request.
+- Include descriptive metadata to enable discovery  
+- Be in broadly usable formats (e.g., CSV, TXT, PDF, JPG, WAV, MP4)  
+- Be organized and documented so they are understandable to others  
+- Be in their final version (not subject to ongoing revision)  
+- Have a designated contact person for follow-up if needed  
 
-### Withdrawal and Removal  
-Datasets may be withdrawn for legal, ethical, or confidentiality reasons. Metadata may be retained for transparency. If UCLA Dataverse ceases operation, we will make reasonable efforts to transfer custody of datasets to another trusted repository or return them to the depositor.
+Depositors may embargo their dataset for up to 12 months, with extensions considered by request.
 
-### Contact  
-For questions about depositing, licensing, or dataset management, contact:  
-📧 [datascience-dvn@ucla.edu](mailto:datascience-dvn@ucla.edu)
+---
+
+## Licensing & Copyright
+
+- The default license is [Creative Commons Zero (CC0)](https://creativecommons.org/publicdomain/zero/1.0/legalcode)  
+- Depositors may select an alternative license (e.g., CC BY 4.0 or custom terms)  
+- Depositors are responsible for ensuring their selected license is accurate and enforceable  
+- Copyright remains with the original creators unless otherwise noted  
+
+If copyright concerns arise, UCLA Library will follow the University’s [DMCA takedown procedures](http://www.library.ucla.edu/support/publishing-data-management/scholarly-communication-resources-education/ucla-library-copyright-policy/uc-systemwide-copyright-policies).
+
+---
+
+## Review & Curation
+
+After submission:
+
+- Your deposit is reviewed by Library staff  
+- We may assist with improving metadata or ensuring discoverability  
+- We register the DOI and descriptive metadata with [DataCite](https://datacite.org/)  
+- Once published, datasets are discoverable globally and openly accessible  
+
+---
+
+## Access and Reuse
+
+- Public access is the default. Depositors may restrict specific files or apply access controls.
+- All users agree to the applicable data license before downloading.  
+- Depositors may request citation and attribution guidance be included in dataset metadata.
+
+Datasets may not be reused for commercial purposes without appropriate licensing.
+
+---
+
+## Preservation Commitments
+
+- Datasets are retained for a minimum of **5 years** from the date of publication  
+- We back up content regularly, apply file integrity checks, and maintain stable DOIs  
+- Metadata and landing pages remain accessible even if the dataset is withdrawn  
+- Proprietary formats are accepted “as-is.” We encourage open formats but do not guarantee format migration
+
+---
+
+## Versioning and Updates
+
+- Depositors may submit new versions of their dataset at any time  
+- Earlier versions remain accessible unless restricted by request  
+- All versions are linked through the persistent DOI record
+
+---
+
+## Takedown and Withdrawal
+
+Datasets may be withdrawn for:
+
+- Copyright violation or takedown request  
+- Legal or privacy concerns  
+- Falsified or retracted research  
+- National security
+
+Withdrawn datasets will be redirected to a “tombstone” landing page explaining the reason for removal. Metadata may be retained for transparency.
+
+---
+
+## Contact
+
+Questions? Need help preparing your dataset?
+
+📧 [datascience-dvn@ucla.edu](mailto:datascience-dvn@ucla.edu)  
+📍 UCLA Library Data Science Center  
+🔗 [https://dataverse.ucla.edu](https://dataverse.ucla.edu)
