@@ -1,49 +1,72 @@
 ---
+
 title: Resources & Administration
 layout: default
 parent: DataSquad Handbook
 nav_order: 3
----
+------------
 
 # Resources & Administration
 
 ## Google Drive Organization
 
-We use the **data-science-center** Shared Drive: [https://drive.google.com/drive/u/0/folders/0AKFJ0mo2-HebUk9PVA](https://drive.google.com/drive/u/0/folders/0AKFJ0mo2-HebUk9PVA).
+We use the **data-science-center** Shared Drive:
+[https://drive.google.com/drive/u/0/folders/0AKFJ0mo2-HebUk9PVA](https://drive.google.com/drive/u/0/folders/0AKFJ0mo2-HebUk9PVA)
 
-* **Folder: `data-squad`**
-    * **Content:** Work-logs, handbooks, administrative matters, and meeting notes.
-    * **Link:** [https://drive.google.com/drive/u/0/folders/1oNojx83bIXmwvG3GbIPlmQ4DXhzh4KIF](https://drive.google.com/drive/u/0/folders/1oNojx83bIXmwvG3GbIPlmQ4DXhzh4KIF)
-* **Folder: `consulting`**
-    * **Content:** All project documentation and resources (client folders, consulting notes).
-    * **Link:** [https://drive.google.com/drive/u/0/folders/14feMpx9VpOiCcDHugOysyiskQxQXafQt](https://drive.google.com/drive/u/0/folders/14feMpx9VpOiCcDHugOysyiskQxQXafQt)
+**Folder: `data-squad`**
+Content: Work-logs, handbooks, administrative documents, meeting notes
+Link: [https://drive.google.com/drive/u/0/folders/1oNojx83bIXmwvG3GbIPlmQ4DXhzh4KIF](https://drive.google.com/drive/u/0/folders/1oNojx83bIXmwvG3GbIPlmQ4DXhzh4KIF)
 
-## GitHub Organization <https://github.com/UCLA-DataSquad>
+**Folder: `consulting`**
+Content: All client-facing project folders, consulting notes, and shared materials
+Link: [https://drive.google.com/drive/u/0/folders/14feMpx9VpOiCcDHugOysyiskQxQXafQt](https://drive.google.com/drive/u/0/folders/14feMpx9VpOiCcDHugOysyiskQxQXafQt)
 
-When setting up a new repository:
+## GitHub Organizations
 
-1.  **Creation:** Create the repo under the **UCLA-DataSquad** organization. Ensure it is **private** and includes a **README**.
-2.  **Initial Push:** Use the following commands (assuming `main` is the primary branch):
+### 1. `data-science-center` (project work)
 
-    ```bash
-    git add --all
-    git commit -m 'Initial commit of project files'
-    git push origin main
-    ```
+This is the primary home for **all project-related repositories**, including reproducible workflows, code, documentation, and collaboration with clients.
+Organization link: [https://github.com/ucla-data-science-center](https://github.com/ucla-data-science-center)
 
-## Publicity & Blogging
+**When creating a new client or research project repo:**
 
-* A blog post (200-500 words) must be written/co-written for every completed project.
-* Posts must be run by Tim or Zhiyuan before publishing.
-* **Tagging:** Use appropriate tags (e.g., outreach, data wrangling, visualization, carpentry) and always include your name as a tag.
+1. Create the repo under **ucla-data-science-center**.
+2. Make it **private** unless the project should be public.
+3. Add a short README with project goals and setup notes.
+4. Push initial files:
 
-## DataSquad (DS) Administrative Processes
+```bash
+git add --all
+git commit -m "Initial commit"
+git push origin main
+```
+
+### 2. `UCLA-DataSquad` (website and blog only)
+
+This organization is used for the **DataSquad website and blog**.
+It is not used for consulting or client work.
+
+Organization link: [https://github.com/UCLA-DataSquad](https://github.com/UCLA-DataSquad)
+
+## Publicity and Blogging
+
+* Every completed project needs a blog post (200 to 500 words).
+* Posts are reviewed by Tim or Zhiyuan before publication.
+* Use clear tags such as outreach, data wrangling, visualization, open science, or consulting.
+* Always tag yourself as the author.
+
+## DataSquad Administrative Processes
 
 ### On-Boarding
-1.  **System Setup:** Setup your GitHub account.
-2.  **Onboarding Tasks:** Complete the tasks on your card in the **Onboarding & Professional Development** Project Board.
-3.  **Confidentiality:** Read and sign the [DataSquad Confidentiality Form](https://drive.google.com/drive/folders/1Qr17DUHNFBlRNsFdRlLXR3--PDv-TVC5). **You cannot start work until this is signed.**
-4.  **Reading:** Complete the First Week reading list. *(**Action Needed:** Update this link from Trello to a new location)*
+
+1. Set up your GitHub account.
+2. Complete your tasks on the **Onboarding and Professional Development** Project Board.
+3. Read and sign the **DataSquad Confidentiality Form**:
+   [https://drive.google.com/drive/folders/1Qr17DUHNFBlRNsFdRlLXR3--PDv-TVC5](https://drive.google.com/drive/folders/1Qr17DUHNFBlRNsFdRlLXR3--PDv-TVC5)
+   You cannot begin work until this is signed.
+4. Read the First Week materials. *(Action: update link to the new location.)*
 
 ### Off-Boarding
-Access will be removed from all DataSquad platforms (GitHub Projects, Google Drive, GitHub Organization, Slack, etc.).
+
+Access is removed from all DataSquad platforms, including Google Drive, GitHub Organizations, Slack, and internal project boards.
+
