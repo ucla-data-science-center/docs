@@ -9,44 +9,50 @@ nav_order: 1
 
 ## Our Mission
 
-***Our mission is to facilitate data processes and data visualization for research, teaching, and work**.*
+**We support UCLA researchers, instructors, and staff by helping them work with data, build clear visualizations, and adopt practices that improve reproducibility and open science.**
 
 ## Our Services
 
-### Data Wrangling & Sculpting
-* Managing the mechanics of accessing data
-* Setting up a Dataverse, Git, or GitHub repository
-* Consulting on Python, R, etc. data programming languages and strategies
-* Data cleaning processes and constructing code-based solutions to data cleaning problems
-* Identifying metadata strategies and tools
+### Data Wrangling and Transformation
+* Helping clients access, import, and organize data from local files, APIs, and cloud platforms  
+* Setting up research workflows in Dataverse, GitHub, and other tools  
+* Cleaning and restructuring data with Python, R, and related libraries  
+* Advising on metadata practices that support documentation, reuse, and long-term management
 
-### Database Design, Data Development, & Data Lifecycle Management
-* Gathering data sets from multiple sources
-* Working with data capture tools like Qualtrics, Google Forms, Filemaker Pro, Acrobat Pro, the web, APIs
-* Accessing data warehouses using SQL or other language support
-* Helping researchers to manage their data through each phase in the lifecycle of the research
+### Database Design, Data Development, and Lifecycle Planning
+* Collecting and combining datasets from multiple sources  
+* Querying data warehouses with SQL and similar languages  
+* Guiding researchers through planning, managing, publishing, and preserving data across a full project lifecycle
 
-### Data Visualization
-* Creating data visualizations with tools such as Tableau, R ggplot2 & shiny, Excel, Google charts, Plotly, and other web-based tools
-* Consulting about data visualization strategies and outcomes
+### Data Visualization and Storytelling
+* Creating clear visualizations using Tableau, R ggplot2, Shiny, Python, Excel, and web-based tools  
+* Advising on visualization choices that match research questions and audiences  
 
-### Reproducibility Testing
-* Verifying code and data completeness to assure reproducibility (in client-produced prepublications & assignments)
+### Reproducibility and Open Science Support
+* Testing whether research code runs start to finish  
+* Reviewing documentation, folder structure, and data completeness  
+* Helping teams adopt open science practices linked to the UCLA OSPO, including licensing, citation, and publication workflows
 
-### Statistical Analysis
-* Applying statistical concepts to research studies and implementing analysis and interpretation of results using statistics
+### Statistical and Analytical Support
+* Applying statistical methods to research questions  
+* Helping clients choose appropriate tests and interpret results using R, Python, Stata, or SPSS
+
+### Emerging Tech, 3D Data, and Computational Methods
+* Assisting with 3D models, geospatial workflows, and immersive data projects  
+* Supporting file management, metadata preparation, and visualization for 3D, LIDAR, drone, and photogrammetry datasets  
+* Collaborating with Library units exploring new modalities in research and instruction
 
 ## Our Tenets
 
-* The DataSquad will access, manipulate, manage, display, and/or facilitate the use of data in *all* forms.
-* The DataSquad will **not** create, interpret, analyze, dictate, or change the nature of our client-supplied data outside of their prescribed plan or project.
-* The DataSquad is trusted to remain neutral, unbiased, and **confidential** in the face of data.
-* DataSquad members have the freedom to be generally lost, confused, and also feel safe to seek support from their DataSquad peers and leaders. **It is imperative that individuals report when a project is faltering for any reason.**
-* DataSquad members will show consideration toward one another, gracefully provide and accept constructive criticism, and gently call out arrogance or insolence.
-* DataSquad members will read and sign the **confidentiality form** and ask questions when there are unclear circumstances.
+* The DataSquad works with data in any form and supports clients in using it responsibly.  
+* We do not alter or reinterpret the substance of a client’s data or attempt to change their research questions.  
+* We maintain neutrality, confidentiality, and trust in all consulting interactions.  
+* Team members can ask for help at any point. We expect people to speak up early when a project becomes unclear or stalls.  
+* We treat one another with respect, offer constructive feedback, and address unhelpful behavior when it appears.  
+* All team members read and sign the confidentiality agreement and raise questions when situations need clarification.
 
 ## Main DataSquad Roles
 
-1. Norman Powell Data Scientist
-2. Norman Powell Technical Writer
-3. Norman Powell Project Manager
+1. **Data Scientist**  
+2. **Technical Writer**  
+3. **Project Manager**
