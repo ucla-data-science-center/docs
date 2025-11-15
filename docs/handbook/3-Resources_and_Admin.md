@@ -1,10 +1,9 @@
 ---
-
 title: Resources & Administration
 layout: default
 parent: DataSquad Handbook
 nav_order: 3
-------------
+---
 
 # Resources & Administration
 
