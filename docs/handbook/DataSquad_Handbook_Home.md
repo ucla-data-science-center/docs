@@ -1,6 +1,7 @@
 ---
 layout: default
 title: DataSquad Handbook
+parent: home
 has_children: true
 nav_order: 4
 ---
