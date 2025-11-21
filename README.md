@@ -1,7 +1,3 @@
-You’re right, that last one would break because of the nested code fences. Here’s a **clean version with no outer code block**, so you can paste straight into `README.md`:
-
----
-
 # UCLA Data Science Center Documentation
 
 This repository contains the source for the UCLA Data Science Center’s documentation site. The site provides guides, handbooks, and internal reference materials for DSC staff, the DataSquad, and campus collaborators. It is built with Jekyll and the Just the Docs theme and published through GitHub Pages.
