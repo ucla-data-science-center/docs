@@ -1,8 +1,10 @@
 ---
-title: Add/Manage Blogs
+title: Manage Blogs
 layout: default
 parent: DataSquad Website Guide
+nav_order: 3
 ---
+
 
 # Adding Blogs
 

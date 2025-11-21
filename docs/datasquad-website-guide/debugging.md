@@ -1,8 +1,10 @@
 ---
-title: Debugging
+title: Debugging Website Issues
 layout: default
 parent: DataSquad Website Guide
+nav_order: 4
 ---
+
 
 If you have any issues with either your blog highlight or project card showing up read this documentation.
 

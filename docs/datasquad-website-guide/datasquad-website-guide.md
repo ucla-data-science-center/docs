@@ -1,8 +1,9 @@
 ---
 title: DataSquad Website Guide
 layout: default
-permalink: /docs/datasquad-website-guide
+parent: DataSquad Handbook
 has_children: true
+nav_order: 6
 ---
 
 Refer to [Add Projects]({{ site.baseurl }}/docs/datasquad-website-guide/add-projects) and 

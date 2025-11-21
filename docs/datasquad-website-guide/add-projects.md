@@ -3,8 +3,8 @@ title: Add Projects
 layout: default
 parent: DataSquad Website Guide
 nav_order: 1
-
 ---
+
 
 # Adding New Projects under "Projects" section
 1. **In the [Datasquad repository](https://github.com/UCLA-DataSquad/ucla-datasquad.github.io) (or it can be your local repository), navigate to `_portfolio` folder.**
