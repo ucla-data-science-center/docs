@@ -22,4 +22,9 @@ This documentation is organized into key areas to help you quickly find what you
 ## Quick Links to Key Resources
 
 * **DSC Website:** [Visit our main website](https://www.library.ucla.edu/visit/locations/data-science-center) **(Link Corrected)**
-* **Contact:** Reach out directly at [dsc@ucla.edu](mailto:dsc@ucla.edu) **(Email Corrected)**
+* **Contact:** Reach out directly at [dsc-team@library.ucla.edu](mailto:dsc-team@library.ucla.edu) **(Email Corrected)**
+
+## All Documentation Sections
+
+{% include components/children_nav.html %}
+
