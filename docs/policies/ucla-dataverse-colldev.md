@@ -7,11 +7,13 @@ author:
 - "Tim Dennis"
 ---
 
+These guidelines outline what types of materials UCLA Dataverse accepts, how datasets are organized, and how curators evaluate deposits. They support a consistent and transparent approach to data publishing at UCLA.
+
+---
+
 # UCLA Dataverse Collection Development Policy
 
 UCLA Dataverse is an open-access data repository operated by the UCLA Library Data Science Center (DSC). It supports UCLA researchers in sharing, preserving, and citing datasets that underpin their scholarship. This policy describes what may be deposited, who can deposit, and how the DSC supports long-term access and responsible stewardship.
-
----
 
 ## What is UCLA Dataverse?
 

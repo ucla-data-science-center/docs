@@ -1,15 +1,11 @@
 ---
 title: Code of Conduct
-description: A code of conduct for the UCLA Library Data Science Center
-parent: Policies
 layout: default
+parent: Policies
 nav_order: 1
-authors: 
-- Jamie Jamison
-- Leigh Phan
-- Tim Dennis
 ---
 
+The Code of Conduct outlines the expectations for anyone using UCLA Library Data Science Center services. It supports a respectful, safe, and productive environment for all researchers, students, and staff.
 
 ## Code of Conduct
 

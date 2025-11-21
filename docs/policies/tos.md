@@ -1,9 +1,11 @@
 ---
 title: Terms of Service
-nav_order: 3
+nav_order: 4
 parent: Policies
 layout: default
 ---
+
+These Terms of Service explain the conditions for using UCLA Dataverse. They cover user responsibilities, limitations, and the Library’s role in operating the platform.
 
 # TERMS OF SERVICE
 

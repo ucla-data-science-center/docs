@@ -1,14 +1,12 @@
 ---
 title: Policies
 layout: default
-permalink: /docs/policies
-has_children: true
 nav_order: 4
+has_children: true
+permalink: /docs/policies
 ---
 
-## Chapter 3
-
-# POLICIES 
+## POLICIES 
 <hr/>
 
-These are the policies for UCLA Dataverse. **NOTE: these policies are subject to change.**
+This section collects policies that guide how UCLA Dataverse and the UCLA Library Data Science Center operate. These policies change as standards and campus requirements evolve.

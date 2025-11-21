@@ -1,9 +1,12 @@
 ---
 title: UCLA Dataverse Preservation Policy
-nav_order: 5
+nav_order: 3
 parent: Policies
 layout: default
 ---
+
+These guidelines describe how UCLA Library Data Science Center manages long-term data preservation. They summarize expectations for storage, retention, file formats, and risk mitigation.
+
 
 # Preservation
 <hr/>

@@ -1,11 +1,15 @@
 ---
 title: SSDA Collection Policy
-nav_order: 4
-parent: Policies
 layout: default
+parent: Policies
+nav_order: 2
 author:
 - "Elizabeth Stephenson"
 - "Dana Peterman"
+---
+
+This policy describes how the UCLA Social Science Data Archive (SSDA) acquires, manages, and provides access to research data. It documents long-standing practices that support faculty research, data sharing, and preservation. This version exists for reference and may be updated as UCLA Library systems and workflows change.
+
 ---
 
 # COLLECTION POLICY
