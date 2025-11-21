@@ -26,4 +26,4 @@ This documentation is organized into key areas to help you quickly find what you
 
 ### All Documentation Sections
 
-{% include children_nav show_description=true %}
+{% include nav_list %}
