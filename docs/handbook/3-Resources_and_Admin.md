@@ -48,3 +48,30 @@ When creating a new project repo:
 git add --all
 git commit -m "Initial commit"
 git push origin main
+```
+
+### UCLA-DataSquad
+
+Used only for the DataSquad website and blog. Not for consulting.
+
+https://github.com/UCLA-DataSquad
+
+Publicity and Blog Posts
+
+Every completed project needs a short blog post (200 to 500 words).
+Posts should:
+
+- Summarize the problem and solution
+- Highlight results or tools used
+- Be reviewed by Tim, Leig or Doug
+- Include clear tags
+- Identify the student author
+
+Blogs help document impact and support future funding.
+
+### Additional Tools
+
+- Slack for internal communication
+- GitHub Projects for task tracking
+- Google Docs for shared writing
+- Zoom for remote consulting

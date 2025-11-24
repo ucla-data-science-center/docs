@@ -2,75 +2,132 @@
 title: Onboarding
 layout: default
 parent: DataSquad Handbook
-nav_order: 3
+nav_order: 2
 ---
 
 # Onboarding
 
-New DataSquad members use this guide to get set up with the tools, accounts, and workflows we use across projects. Complete these steps during your first week.
+New DataSquad members use this guide during their first week.  
+Your very first step is to create an **Onboarding Ticket** so we can track progress and activate your access.
 
 ---
 
-## Accounts and Access
+# 1. Create Your Onboarding Ticket
 
-### GitHub  
-You need a GitHub account linked to your UCLA email.  
-After your account is created, Tim or Leigh will add you to the **ucla-data-science-center** and **UCLA-DataSquad** GitHub organizations.
+Open the issue template here:
 
-### Google Drive  
-You will be added to the **data-science-center** Shared Drive.  
-Important folders:
+**https://github.com/ucla-data-science-center/DataSquad/issues/new/choose**
 
-- **data-squad**  
-  Work logs, handbooks, administrative documents, meeting notes  
-  <https://drive.google.com/drive/u/0/folders/1oNojx83bIXmwvG3GbIPlmQ4DXhzh4KIF>
+Choose **DataSquad Student Onboarding**.
 
-- **consulting**  
-  All client-facing project folders, intake notes, deliverables  
-  <https://drive.google.com/drive/u/0/folders/14feMpx9VpOiCcDHugOysyiskQxQXafQt>
+Then:
 
----
+1. Add your name to the issue title  
+   `Onboarding: YOUR NAME`
+2. Fill out the form fields (name, UCLA email, GitHub username, skills, interests)
+3. Submit the issue  
+4. Use the checklists in the issue as your task list for the week
 
-## Issue Templates and Intake
-
-All project proposals and onboarding tasks use GitHub issue templates:
-
-- **DataSquad Student Onboarding**  
-- **DataSquad Project Intake**  
-
-Direct link:  
-<https://github.com/ucla-data-science-center/DataSquad/issues/new/choose>
-
-Create an onboarding issue during your first week so we can track progress.  
+Your onboarding ticket becomes your working record.
 
 ---
 
-## Required Documents
+# 2. Accounts and Access
 
-### Confidentiality Form  
-Sign before working with any clients.  
+## GitHub (required for all projects)
+
+Your GitHub account must use your **UCLA login email** because the  
+**ucla-data-science-center GitHub Enterprise organization requires UCLA SSO**.  
+If your GitHub account is tied to a personal email, add your UCLA email before joining.
+
+After that:
+
+- Tim or Leigh will add you to  
+  - `ucla-data-science-center` (project work)  
+  - `UCLA-DataSquad` (website and blog)
+
+## Google Drive
+
+You’ll be added to the **data-science-center** Shared Drive.
+
+Key folders:
+
+### `data-squad`  
+Work logs, handbook, admin docs, meeting notes  
+<https://drive.google.com/drive/u/0/folders/1oNojx83bIXmwvG3GbIPlmQ4DXhzh4KIF>
+
+### `consulting`  
+Client-facing project folders, intake notes, deliverables  
+<https://drive.google.com/drive/u/0/folders/14feMpx9VpOiCcDHugOysyiskQxQXafQt>
+
+---
+
+# 3. Required Documents
+
+## Confidentiality Form  
+Must be signed before any client work:  
 <https://drive.google.com/drive/folders/1Qr17DUHNFBlRNsFdRlLXR3--PDv-TVC5>
 
-### First Week Materials  
-Read the First Week guide and complete the items listed.  
-*(Note: insert updated link once the new location is confirmed.)*
+## First Week Materials  
+Read the First Week guide and complete the steps.  
+*(Updated link will be added.)*
 
 ---
 
-## Professional Development Board
+# 4. Reading List
 
-You will have tasks on the **Onboarding and Professional Development** board.  
-These include:
+Your onboarding ticket includes the required reading list, including:
 
-- Setting up Git and GitHub  
-- Learning project documentation standards  
-- Reading the DataSquad Handbook  
-- Joining Slack and setting up notifications  
-- Completing short practice tasks assigned by returning members  
+- Pedagogical Data Reference Interview  
+- Practice of Reproducible Research (Front Matter + a case study)  
+- Good Enough Practices in Scientific Computing  
+- Intro to Data Literacy  
+- UCLA DataSquad Operational Handbook  
+- DCN Data Curation Primers  
+- Your role-specific job handbook  
+- UCLA Library Research Help Guide
+
+You don’t need to finish these in a week. Start now and continue through your first month.
 
 ---
 
-## Getting Help
+# 5. Professional Development Board
 
-Ask questions early. Slack is the fastest place for support.  
-You can also meet with Tim during drop-in hours or schedule a check-in if you need help with tools or projects.
+You’ll be assigned tasks on the **Onboarding and Professional Development Board**, including:
+
+- Set up Git and GitHub
+- Join both Slack workspaces
+- Learn handbook structure and documentation norms
+- Submit your headshot through your onboarding ticket
+- Complete short practice tasks assigned by returning members
+
+---
+
+# 6. Getting Started Tasks
+
+These appear in your onboarding ticket and include:
+
+- Onboarding meeting with Tim, Leigh, and Doug  
+- Sharing consultation preferences and weekly working hours  
+- Setting up work logs  
+- Getting DSC space access and passcodes  
+- Making sure Slack notifications are configured
+- Completing any assigned warm-up exercises
+
+---
+
+# 7. Where to Find Documentation
+
+All internal documentation is in the DataSquad Handbook:
+
+**{{ site.baseurl }}/datasquad-handbook**
+
+Bookmark it. You’ll use it all year.
+
+---
+
+# Getting Help
+
+Ask early and often.  
+Slack is the fastest place for questions.  
+You can also schedule a check-in with Tim if you hit technical blockers.
