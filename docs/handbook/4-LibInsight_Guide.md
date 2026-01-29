@@ -2,7 +2,7 @@
 layout: default
 title: LibInsight Consultation Logging Guide
 parent: DataSquad Handbook
-nav_order: 4
+nav_order: 7
 ---
 
 # 📊 LibInsight Consultation Logging Guide

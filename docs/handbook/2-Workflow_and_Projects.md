@@ -2,7 +2,7 @@
 title: Project Workflow & GitHub
 layout: default
 parent: DataSquad Handbook
-nav_order: 2
+nav_order: 3
 ---
 
 # Project Workflow & GitHub

@@ -2,7 +2,7 @@
 layout: default
 title: LibCal DataSquad Hours Guide
 parent: DataSquad Handbook
-nav_order: 4
+nav_order: 6
 ---
 
 # LibCal Hours Guide

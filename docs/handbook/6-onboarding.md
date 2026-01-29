@@ -113,6 +113,7 @@ These appear in your onboarding ticket and include:
 - Getting DSC space access and passcodes  
 - Making sure Slack notifications are configured
 - Completing any assigned warm-up exercises
+- Completing the [DataSquad LibCal Setup Checklist (Students)]({{ site.baseurl }}/docs/handbook/DataSquad_LibCal_Setup_Checklist.html)
 
 ---
 
