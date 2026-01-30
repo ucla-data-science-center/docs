@@ -138,13 +138,20 @@ Use Weekly availability and start with limited blocks. You can always add more l
 
 Think of availability as office hours, not your full schedule.
 
-When setting availability:
+When setting availability, remember that **DataSquad is a hybrid service**. You should generally offer both options:
 
-* Use Virtual Consultations for Zoom meetings
-* Use In-Person Consultations only if you know the location
-* Create separate availability blocks if you offer both
+
+
+*   **Virtual Consultations:** Use this for Zoom meetings. This must be connected to your Zoom integration.
+
+*   **In-Person Consultations:** Use this for meetings in the Research Commons.
+
+*   **Offer Both:** You must create separate availability blocks for each type to ensure patrons can choose their preferred format.
+
+
 
 ![Add Availability Modal](../../assets/img/libcal/libcal-add-availability.png)
+
 ![Location Selection](../../assets/img/libcal/libcal-location-selection.png)
 
 ## Step 7: Configure Appointment Settings
