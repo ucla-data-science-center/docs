@@ -134,6 +134,8 @@ Go to **Appointments → Availability**.
 Use Weekly availability and start with limited blocks. You can always add more later.
 ![Availability Groups](../../assets/img/libcal/libcal-availability-groups.png)
 
+**Important:** If you belong to multiple LibCal groups (e.g., "DataSquad" and "Research Help"), ensure you are adding availability to **DataSquad** specifically. Use the "Groups" filter to check this.
+
 Think of availability as office hours, not your full schedule.
 
 When setting availability:
@@ -159,12 +161,13 @@ Go to **Appointments → My Settings** and configure the following fields to ens
 *   **Patron Booking Window:** `60 days` (Default)
 
 **Public Profile:**
+*   **Profile Picture:** Upload a professional-style headshot so patrons know who they are meeting.
 *   **Public Nickname:** `DataSquad [Your Name]` (e.g., "DataSquad Tim")
 *   **Friendly URL:** Set this to your name (e.g., `tim-dennis`). This makes your link easier to share.
 *   **Map Image:** Paste this URL:
     `https://d2jv02qf7xgjwx.cloudfront.net/customers/694/images/RC_Map.jpg`
 *   **Directions:**
-    > We are located in the Research Commons (First Floor, 11630F) of the Charles E. Young Research Library.
+    > For In-Person appointments, we are located in the Research Commons (First Floor, 11630F) of the Charles E. Young Research Library. Virtual appointments will be held via the Zoom link provided in your email.
 
 **Emails:**
 *   **Patron Reminder Email:** `Send 1 day before appointment`
@@ -185,6 +188,8 @@ Before sharing your booking link:
 * Confirm it appears on your calendar
 * Confirm Zoom is created
 * Confirm intake questions appear
+
+**Crucial:** After confirming the email and Zoom link work, **cancel the test appointment** to free up that time slot.
 
 If something looks wrong, check Availability first, then Integrations.
 
