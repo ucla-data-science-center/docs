@@ -75,7 +75,19 @@ Once connected, Zoom meetings will be auto-generated for appointments. You do *n
 To verify the integration is working for emails:
 1. Go to **Appointments** > **My Settings**.
 2. Scroll to **Confirmation Email to Patron**.
-3. Ensure the email body contains the tags `{{{ONLINE_JOIN_URL}}}` and `{{{ONLINE_JOIN_PASSWORD}}}`. These tags are replaced by the actual link and password when an email is sent.
+3. Replace the existing text with the **Standard DataSquad Email Template** below to ensure Zoom links are sent correctly:
+
+```html
+<p>Hi {{FIRST_NAME}},</p>
+<p>Thanks for booking an appointment with the Data Science Center.</p>
+<p>We will be meeting via Zoom. You can join the meeting using the link below:</p>
+<p><strong>Join Zoom Meeting:</strong> {{{ONLINE_JOIN_URL}}}</p>
+<p><strong>Password:</strong> {{{ONLINE_JOIN_PASSWORD}}}</p>
+<p>If you have any questions before our meeting, please reply to this email.</p>
+<p>Best regards,<br>
+{{NAME}}</p>
+```
+4. Click **Save**.
 
 ## Step 4: Connect Your Calendar
 
