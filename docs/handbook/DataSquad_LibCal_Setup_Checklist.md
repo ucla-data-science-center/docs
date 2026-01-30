@@ -58,14 +58,15 @@ Confirm you can see Availability, My Settings, Booking Forms, and Integrations. 
 
 This integration ensures that Zoom meetings are automatically created for your appointments and included in confirmation emails.
 
-1.  Log in to LibCal and click on your email address in the top right corner (or go to **Appointments** > **Integrations**).
-2.  Select the **Integrations** tab.
-3.  Scroll to the **Zoom: Online Appointments and Events** section.
-4.  Click **Authorize with Zoom account**.
-5.  Select **Sign in with SSO**.
-6.  Enter `ucla` in the domain field and click **Continue**.
-7.  Authenticate with your UCLA credentials and MFA.
-8.  Click **Authorize** to grant permission.
+1.  Open LibCal.
+2.  Click on the email address associated with your LibCal account in the top right hand corner.
+3.  Click on the "Integrations" tab.
+4.  In the "Zoom: Online Appointments and Events" section, click the "Authorize with Zoom account" button.
+5.  On the next page, click the "Sign in with SSO" button.
+6.  On the next page, enter "ucla" in the field.
+7.  On the UCLA SSO page, enter your credentials and complete the multi-factor authentication process.
+8.  After authenticating, click the "Authorize" button on the page that appears.
+9.  You will return to the LibCal website.
 
 **Verification:**
 Once connected, Zoom meetings will be auto-generated for appointments. You do *not* need to paste Zoom links manually.
