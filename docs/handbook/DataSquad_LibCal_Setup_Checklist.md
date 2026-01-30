@@ -122,6 +122,7 @@ To set it:
 * Go to **Appointments → My Settings**
 * Find Appointment Form
 * Select **DSC/DataSquad (19099)**
+![Appointment Settings](../../assets/img/libcal/libcal-appointment-settings.png)
 * Save
 
 Do not create your own booking form.
@@ -129,8 +130,10 @@ Do not create your own booking form.
 ## Step 6: Set Your Availability
 
 Go to **Appointments → Availability**.
+![Appointments Tab](../../assets/img/libcal/libcal-appointments.png)
 
 Use Weekly availability and start with limited blocks. You can always add more later.
+![Availability Groups](../../assets/img/libcal/libcal-availability-groups.png)
 
 Think of availability as office hours, not your full schedule.
 
@@ -139,6 +142,9 @@ When setting availability:
 * Use Virtual Consultations for Zoom meetings
 * Use In-Person Consultations only if you know the location
 * Create separate availability blocks if you offer both
+
+![Add Availability Modal](../../assets/img/libcal/libcal-add-availability.png)
+![Location Selection](../../assets/img/libcal/libcal-location-selection.png)
 
 ## Step 7: Review Settings Once
 
