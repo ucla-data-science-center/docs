@@ -59,7 +59,8 @@ Confirm you can see Availability, My Settings, Booking Forms, and Integrations. 
 This integration ensures that Zoom meetings are automatically created for your appointments and included in confirmation emails.
 
 1.  Open LibCal.
-2.  Click on the email address associated with your LibCal account in the top right hand corner.
+2.  Click on the user icon (next to your email address) in the top right hand corner.
+    ![LibCal Zoom Integration Auth](../../assets/img/zoomauth.png)
 3.  Click on the "Integrations" tab.
 4.  In the "Zoom: Online Appointments and Events" section, click the "Authorize with Zoom account" button.
 5.  On the next page, click the "Sign in with SSO" button.
