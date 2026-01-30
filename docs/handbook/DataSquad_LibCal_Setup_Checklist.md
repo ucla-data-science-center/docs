@@ -78,6 +78,7 @@ To verify the integration is working for emails:
 3. Replace the existing text with the **Standard DataSquad Email Template** below to ensure Zoom links are sent correctly:
 
 ```html
+{% raw %}
 <p>Hi {{FIRST_NAME}},</p>
 <p>Thanks for booking an appointment with the Data Science Center.</p>
 <p>We will be meeting via Zoom. You can join the meeting using the link below:</p>
@@ -86,6 +87,7 @@ To verify the integration is working for emails:
 <p>If you have any questions before our meeting, please reply to this email.</p>
 <p>Best regards,<br>
 {{NAME}}</p>
+{% endraw %}
 ```
 4. Click **Save**.
 
