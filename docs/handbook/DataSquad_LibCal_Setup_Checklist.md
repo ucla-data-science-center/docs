@@ -122,7 +122,6 @@ To set it:
 * Go to **Appointments → My Settings**
 * Find Appointment Form
 * Select **DSC/DataSquad (19099)**
-![Appointment Settings](../../assets/img/libcal/libcal-appointment-settings.png)
 * Save
 
 Do not create your own booking form.
@@ -146,16 +145,37 @@ When setting availability:
 ![Add Availability Modal](../../assets/img/libcal/libcal-add-availability.png)
 ![Location Selection](../../assets/img/libcal/libcal-location-selection.png)
 
-## Step 7: Review Settings Once
+## Step 7: Configure Appointment Settings
 
-In **My Settings**, confirm:
+Go to **Appointments → My Settings** and configure the following fields to ensure a consistent patron experience.
 
-* Appointment length
-* Padding between appointments
-* How far in advance people can book
-* Cancellation window
+![Appointment Settings](../../assets/img/libcal/libcal-appointment-settings.png)
 
-Do this before publishing a lot of availability.
+**General Settings:**
+*   **Appointment Duration:** `45 minutes` (Standard session length)
+*   **Padding:** `0 minutes` (Unless you need a break between back-to-back sessions)
+*   **Patron Must Book In Advance:** `24 hours` (Prevents surprise same-day bookings)
+*   **Patron Can Cancel Appointment:** `1 hour` (Allows late cancellations instead of no-shows)
+*   **Patron Booking Window:** `60 days` (Default)
+
+**Public Profile:**
+*   **Public Nickname:** `DataSquad [Your Name]` (e.g., "DataSquad Tim")
+*   **Friendly URL:** Set this to your name (e.g., `tim-dennis`). This makes your link easier to share.
+*   **Map Image:** Paste this URL:
+    `https://d2jv02qf7xgjwx.cloudfront.net/customers/694/images/RC_Map.jpg`
+*   **Directions:**
+    > We are located in the Research Commons (First Floor, 11630F) of the Charles E. Young Research Library.
+
+**Emails:**
+*   **Patron Reminder Email:** `Send 1 day before appointment`
+*   **Patron Follow Up Email:** `Send 1 day after appointment`
+
+**Appointment Instructions/Description:**
+Copy and paste this standard text into the box:
+
+> The Data Science Center (DataSquad) offers peer-to-peer consulting on data analysis, programming (R, Python), and data management. Please describe your question in detail so we can prepare.
+
+Click **Save** at the bottom of the page.
 
 ## Step 8: Sanity Check
 
