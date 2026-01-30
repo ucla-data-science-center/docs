@@ -9,6 +9,8 @@ nav_order: 4
 
 This checklist must be completed before you begin taking DataSquad appointments.
 
+DataSquad appointments are offered through the UCLA Library Data Science Center. You will set up your own availability and integrations, but patrons book through the shared service.
+
 ## Before You Start
 
 You will need:
@@ -112,7 +114,7 @@ Publish conservative availability.
 
 ## Step 5: Select the Required Booking Form
 
-All DataSquad appointments must use the shared intake form.
+All scheduled DataSquad consultations must use the shared intake form.
 
 Form name: **DSC/DataSquad**
 Form ID: **19099**
@@ -126,6 +128,8 @@ To set it:
 
 Do not create your own booking form.
 
+**Note:** In-person walk-in hours use a separate, lighter **DSC** booking form and are configured as a service. Your supervisor will set that up.
+
 ## Step 6: Set Your Availability
 
 Go to **Appointments → Availability**.
@@ -134,13 +138,13 @@ Go to **Appointments → Availability**.
 Use Weekly availability and start with limited blocks. You can always add more later.
 ![Availability Groups](../../assets/img/libcal/libcal-availability-groups.png)
 
-**Important:** If you belong to multiple LibCal groups (e.g., "DataSquad" and "Research Help"), ensure you are adding availability to **DataSquad** specifically. Use the "Groups" filter to check this.
+**Important:** If you belong to multiple LibCal groups (e.g., "Library Data Science Center" and "Research Help"), ensure you are adding availability to **Library Data Science Center** specifically. Use the "Groups" filter to check this.
+
+Availability added to the wrong group will not appear on the Data Science Center booking page.
 
 Think of availability as office hours, not your full schedule.
 
 When setting availability, remember that **DataSquad is a hybrid service**. You should generally offer both options:
-
-
 
 *   **Virtual Consultations:** Use this for Zoom meetings. This must be connected to your Zoom integration.
 
@@ -148,11 +152,12 @@ When setting availability, remember that **DataSquad is a hybrid service**. You 
 
 *   **Offer Both:** You must create separate availability blocks for each type to ensure patrons can choose their preferred format.
 
-
-
 ![Add Availability Modal](../../assets/img/libcal/libcal-add-availability.png)
 
 ![Location Selection](../../assets/img/libcal/libcal-location-selection.png)
+
+**Important: Locations**
+Do not create your own locations. Use the standard DSC locations so directions and instructions stay consistent for patrons.
 
 ## Step 7: Configure Appointment Settings
 
@@ -169,7 +174,8 @@ Go to **Appointments → My Settings** and configure the following fields to ens
 
 **Public Profile:**
 *   **Profile Picture:** Upload a professional-style headshot so patrons know who they are meeting.
-*   **Public Nickname:** `DataSquad [Your Name]` (e.g., "DataSquad Tim")
+*   **Public Nickname:** Use a short expertise label. Example: `Your Name (R & Python, statistics)`  
+    Keep it short. Patrons do not see a full profile page in the booking flow, so this label matters.
 *   **Friendly URL:** Set this to your name (e.g., `tim-dennis`). This makes your link easier to share.
 *   **Map Image:** Paste this URL:
     `https://d2jv02qf7xgjwx.cloudfront.net/customers/694/images/RC_Map.jpg`
@@ -183,7 +189,7 @@ Go to **Appointments → My Settings** and configure the following fields to ens
 **Appointment Instructions/Description:**
 Copy and paste this standard text into the box:
 
-> The Data Science Center (DataSquad) offers peer-to-peer consulting on data analysis, programming (R, Python), and data management. Please describe your question in detail so we can prepare.
+> The UCLA Library Data Science Center offers peer-to-peer and staff-supported consulting on data analysis, programming (R and Python), statistics, and data management. Please describe your question in detail so we can prepare.
 
 Click **Save** at the bottom of the page.
 
