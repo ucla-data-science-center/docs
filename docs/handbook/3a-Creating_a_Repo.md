@@ -22,11 +22,11 @@ The template was built by Lawrence following [UC OSPO](https://ucospo.net/) guid
 5. Set visibility to **Private** unless cleared for public access.
 6. Click **Create repository**.
 
-![Select the dsc-template when creating a new repository](/assets/img/creating-repo.png)
+![Select the dsc-template when creating a new repository]({{ site.baseurl }}/assets/img/creating-repo.png)
 
 After creating, your repo will look like this:
 
-![Repository created from dsc-template](/assets/img/initial-commit.png)
+![Repository created from dsc-template]({{ site.baseurl }}/assets/img/initial-commit.png)
 
 Do **not** remove any of the template files. They are required for UC OSPO compliance. The sections below explain how to fill each one in.
 
