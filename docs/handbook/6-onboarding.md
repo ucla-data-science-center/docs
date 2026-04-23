@@ -121,7 +121,7 @@ These appear in your onboarding ticket and include:
 
 All internal documentation is in the DataSquad Handbook:
 
-**{{ site.baseurl }}/datasquad-handbook**
+[DataSquad Handbook]({{ site.baseurl }}/docs/handbook/DataSquad_Handbook_Home.html)
 
 Bookmark it. You’ll use it all year.
 

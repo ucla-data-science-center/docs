@@ -2,7 +2,7 @@ title: DSC Documentation
 description: A documentation site for UCLA Data Science Center
 theme: just-the-docs
 
-url: https://ucla-data-science-center.github.io/ucla-dataverse-just-doc/
+url: https://ucla-data-science-center.github.io/docs/
 
 aux_links:
   Github: https://github.com/ucla-data-science-center/ucla-dataverse-just-doc

@@ -62,7 +62,7 @@ This integration ensures that Zoom meetings are automatically created for your a
 
 1.  Open LibCal.
 2.  Click on the user icon (next to your email address) in the top right hand corner.
-    ![LibCal Zoom Integration Auth](../../assets/img/zoomauth.png)
+    ![LibCal Zoom Integration Auth]({{ site.baseurl }}/assets/img/zoomauth.png)
 3.  Click on the "Integrations" tab.
 4.  In the "Zoom: Online Appointments and Events" section, click the "Authorize with Zoom account" button.
 5.  On the next page, click the "Sign in with SSO" button.
@@ -133,10 +133,10 @@ Do not create your own booking form.
 ## Step 6: Set Your Availability
 
 Go to **Appointments → Availability**.
-![Appointments Tab](../../assets/img/libcal/libcal-appointments.png)
+![Appointments Tab]({{ site.baseurl }}/assets/img/libcal/libcal-appointments.png)
 
 Use Weekly availability and start with limited blocks. You can always add more later.
-![Availability Groups](../../assets/img/libcal/libcal-availability-groups.png)
+![Availability Groups]({{ site.baseurl }}/assets/img/libcal/libcal-availability-groups.png)
 
 **Important:** If you belong to multiple LibCal groups (e.g., "Library Data Science Center" and "Research Help"), ensure you are adding availability to **Library Data Science Center** specifically. Use the "Groups" filter to check this.
 
@@ -152,9 +152,9 @@ When setting availability, remember that **DataSquad is a hybrid service**. You 
 
 *   **Offer Both:** You must create separate availability blocks for each type to ensure patrons can choose their preferred format.
 
-![Add Availability Modal](../../assets/img/libcal/libcal-add-availability.png)
+![Add Availability Modal]({{ site.baseurl }}/assets/img/libcal/libcal-add-availability.png)
 
-![Location Selection](../../assets/img/libcal/libcal-location-selection.png)
+![Location Selection]({{ site.baseurl }}/assets/img/libcal/libcal-location-selection.png)
 
 **Important: Locations**
 Do not create your own locations. Use the standard DSC locations so directions and instructions stay consistent for patrons.
@@ -163,7 +163,7 @@ Do not create your own locations. Use the standard DSC locations so directions a
 
 Go to **Appointments → My Settings** and configure the following fields to ensure a consistent patron experience.
 
-![Appointment Settings](../../assets/img/libcal/libcal-appointment-settings.png)
+![Appointment Settings]({{ site.baseurl }}/assets/img/libcal/libcal-appointment-settings.png)
 
 **General Settings:**
 *   **Appointment Duration:** `45 minutes` (Standard session length)
