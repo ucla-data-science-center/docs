@@ -1,6 +1,6 @@
 ---
 title: Terms of Service
-nav_order: 4
+nav_order: 5
 parent: Policies
 layout: default
 ---

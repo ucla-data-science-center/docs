@@ -1,6 +1,6 @@
 ---
 title: UCLA Dataverse Collection Policy
-nav_order: 2
+nav_order: 3
 parent: Policies
 layout: default
 author:

@@ -2,7 +2,7 @@
 layout: default
 title: DataSquad LibCal Setup Checklist (Students)
 parent: DataSquad Handbook
-nav_order: 4
+nav_order: 6
 ---
 
 # DataSquad LibCal Setup Checklist (Students)

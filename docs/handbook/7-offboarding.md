@@ -2,7 +2,7 @@
 title: Offboarding
 layout: default
 parent: DataSquad Handbook
-nav_order: 9
+nav_order: 10
 ---
 
 # Offboarding

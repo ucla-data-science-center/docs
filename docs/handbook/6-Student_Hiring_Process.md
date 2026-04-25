@@ -2,7 +2,7 @@
 title: Student Hiring Process
 layout: default
 parent: DataSquad Handbook
-nav_order: 8
+nav_order: 9
 ---
 
 # Student Hiring Process
